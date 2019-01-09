@@ -1,2 +1,2 @@
 # hello-world
-Tutorial for github
+Nick Connelly - junior College of Engineering University of Michigan
